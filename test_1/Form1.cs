@@ -40,7 +40,36 @@ namespace test_1
                 int nbRestant = listBox1.Items.Count;
                 Random alea = new Random();
                 int nbAlea = alea.Next(nbRestant);
-                MessageBox.Show(nbAlea.ToString());
+                if (compt1 < 2)
+                {
+                    listBox2.Items.Add(listBox1.Items[nbAlea]);
+                    listBox1.Items.Remove(listBox1.Items[nbAlea]);
+                }
+                else if (compt1 > 1 && compt1 < 4)
+                {
+                    listBox3.Items.Add(listBox1.Items[nbAlea]);
+                    listBox1.Items.Remove(listBox1.Items[nbAlea]);
+                }
+                else if (compt1 > 3 && compt1 < 6)
+                {
+                    listBox4.Items.Add(listBox1.Items[nbAlea]);
+                    listBox1.Items.Remove(listBox1.Items[nbAlea]);
+                }
+                else if (compt1 > 5 && compt1 < 8)
+                {
+                    listBox5.Items.Add(listBox1.Items[nbAlea]);
+                    listBox1.Items.Remove(listBox1.Items[nbAlea]);
+                }
+                else if (compt1 > 7 && compt1 < 10)
+                {
+                    listBox6.Items.Add(listBox1.Items[nbAlea]);
+                    listBox1.Items.Remove(listBox1.Items[nbAlea]);
+                }
+                else
+                {
+                    MessageBox.Show("ee");
+                }
+
 
             }
 
