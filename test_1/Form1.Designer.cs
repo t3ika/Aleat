@@ -28,57 +28,158 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.metroButton1 = new MetroFramework.Controls.MetroButton();
+            this.metroButton2 = new MetroFramework.Controls.MetroButton();
+            this.metroButton3 = new MetroFramework.Controls.MetroButton();
+            this.metroTextBox1 = new MetroFramework.Controls.MetroTextBox();
+            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.listBox2 = new System.Windows.Forms.ListBox();
+            this.listBox3 = new System.Windows.Forms.ListBox();
+            this.listBox4 = new System.Windows.Forms.ListBox();
+            this.listBox5 = new System.Windows.Forms.ListBox();
+            this.listBox6 = new System.Windows.Forms.ListBox();
+            this.listBox7 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
-            // button1
+            // metroButton1
             // 
-            this.button1.Location = new System.Drawing.Point(191, 103);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.metroButton1.Location = new System.Drawing.Point(23, 137);
+            this.metroButton1.Name = "metroButton1";
+            this.metroButton1.Size = new System.Drawing.Size(121, 24);
+            this.metroButton1.TabIndex = 0;
+            this.metroButton1.Text = "metroButton1";
+            this.metroButton1.Click += new System.EventHandler(this.metroButton1_Click);
             // 
-            // button2
+            // metroButton2
             // 
-            this.button2.Location = new System.Drawing.Point(354, 219);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
+            this.metroButton2.Location = new System.Drawing.Point(252, 254);
+            this.metroButton2.Name = "metroButton2";
+            this.metroButton2.Size = new System.Drawing.Size(75, 23);
+            this.metroButton2.TabIndex = 1;
+            this.metroButton2.Text = "metroButton2";
+            this.metroButton2.Click += new System.EventHandler(this.metroButton2_Click);
             // 
-            // button3
+            // metroButton3
             // 
-            this.button3.Location = new System.Drawing.Point(442, 287);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 2;
-            this.button3.Text = "button3";
-            this.button3.UseVisualStyleBackColor = true;
+            this.metroButton3.Location = new System.Drawing.Point(252, 283);
+            this.metroButton3.Name = "metroButton3";
+            this.metroButton3.Size = new System.Drawing.Size(75, 23);
+            this.metroButton3.TabIndex = 2;
+            this.metroButton3.Text = "metroButton3";
+            // 
+            // metroTextBox1
+            // 
+            this.metroTextBox1.Location = new System.Drawing.Point(24, 108);
+            this.metroTextBox1.Name = "metroTextBox1";
+            this.metroTextBox1.Size = new System.Drawing.Size(120, 23);
+            this.metroTextBox1.TabIndex = 3;
+            this.metroTextBox1.Text = "metroTextBox1";
+            this.metroTextBox1.UseStyleColors = true;
+            // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Items.AddRange(new object[] {
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J"});
+            this.listBox1.Location = new System.Drawing.Point(23, 167);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(120, 277);
+            this.listBox1.TabIndex = 4;
+            // 
+            // listBox2
+            // 
+            this.listBox2.FormattingEnabled = true;
+            this.listBox2.Location = new System.Drawing.Point(394, 36);
+            this.listBox2.Name = "listBox2";
+            this.listBox2.Size = new System.Drawing.Size(120, 56);
+            this.listBox2.TabIndex = 5;
+            // 
+            // listBox3
+            // 
+            this.listBox3.FormattingEnabled = true;
+            this.listBox3.Location = new System.Drawing.Point(394, 98);
+            this.listBox3.Name = "listBox3";
+            this.listBox3.Size = new System.Drawing.Size(120, 56);
+            this.listBox3.TabIndex = 6;
+            // 
+            // listBox4
+            // 
+            this.listBox4.FormattingEnabled = true;
+            this.listBox4.Location = new System.Drawing.Point(394, 178);
+            this.listBox4.Name = "listBox4";
+            this.listBox4.Size = new System.Drawing.Size(120, 56);
+            this.listBox4.TabIndex = 7;
+            // 
+            // listBox5
+            // 
+            this.listBox5.FormattingEnabled = true;
+            this.listBox5.Location = new System.Drawing.Point(394, 240);
+            this.listBox5.Name = "listBox5";
+            this.listBox5.Size = new System.Drawing.Size(120, 56);
+            this.listBox5.TabIndex = 8;
+            // 
+            // listBox6
+            // 
+            this.listBox6.FormattingEnabled = true;
+            this.listBox6.Location = new System.Drawing.Point(394, 380);
+            this.listBox6.Name = "listBox6";
+            this.listBox6.Size = new System.Drawing.Size(120, 56);
+            this.listBox6.TabIndex = 10;
+            // 
+            // listBox7
+            // 
+            this.listBox7.FormattingEnabled = true;
+            this.listBox7.Location = new System.Drawing.Point(394, 318);
+            this.listBox7.Name = "listBox7";
+            this.listBox7.Size = new System.Drawing.Size(120, 56);
+            this.listBox7.TabIndex = 9;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(782, 461);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.listBox6);
+            this.Controls.Add(this.listBox7);
+            this.Controls.Add(this.listBox5);
+            this.Controls.Add(this.listBox4);
+            this.Controls.Add(this.listBox3);
+            this.Controls.Add(this.listBox2);
+            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.metroTextBox1);
+            this.Controls.Add(this.metroButton3);
+            this.Controls.Add(this.metroButton2);
+            this.Controls.Add(this.metroButton1);
             this.Name = "Form1";
+            this.Resizable = false;
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
+        private MetroFramework.Controls.MetroButton metroButton1;
+        private MetroFramework.Controls.MetroButton metroButton2;
+        private MetroFramework.Controls.MetroButton metroButton3;
+        private MetroFramework.Controls.MetroTextBox metroTextBox1;
+        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListBox listBox2;
+        private System.Windows.Forms.ListBox listBox3;
+        private System.Windows.Forms.ListBox listBox4;
+        private System.Windows.Forms.ListBox listBox5;
+        private System.Windows.Forms.ListBox listBox6;
+        private System.Windows.Forms.ListBox listBox7;
     }
 }
 
