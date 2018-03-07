@@ -65,6 +65,21 @@ namespace test_1
                     listBox6.Items.Add(listBox1.Items[nbAlea]);
                     listBox1.Items.Remove(listBox1.Items[nbAlea]);
                 }
+                else if (compt1 > 9 && compt1 < 12)
+                {
+                    listBox7.Items.Add(listBox1.Items[nbAlea]);
+                    listBox1.Items.Remove(listBox1.Items[nbAlea]);
+                }
+                else if (compt1 > 11 && compt1 < 14)
+                {
+                    listBox8.Items.Add(listBox1.Items[nbAlea]);
+                    listBox1.Items.Remove(listBox1.Items[nbAlea]);
+                }
+                else if (compt1 > 13 && compt1 < 16)
+                {
+                    listBox9.Items.Add(listBox1.Items[nbAlea]);
+                    listBox1.Items.Remove(listBox1.Items[nbAlea]);
+                }
                 else
                 {
                     MessageBox.Show("ee");
