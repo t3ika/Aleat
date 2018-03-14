@@ -15,6 +15,8 @@ namespace test_1
 
         int nbTotal;
 
+        private ClassLibrary1.ClassSQL1 _cla1 = new ClassLibrary1.ClassSQL1();
+
         public Form1()
         {
             InitializeComponent();
@@ -22,7 +24,9 @@ namespace test_1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            var data = _cla1.GetMain();
+            listBox10.DataSource = data;
+            listBox10.DisplayMember = "na";
         }
 
         private void metroButton1_Click(object sender, EventArgs e)
@@ -89,6 +93,21 @@ namespace test_1
             }
 
             
+        }
+
+        private void metroButton3_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                sql_datamodel dBase = new sql_datamodel();
+                listBox10.DataSource = dBase.mains.ToList();
+                listBox10.DisplayMember = "na";
+            }
+            catch (Exception ez)
+            {
+                MessageBox.Show(ez.ToString());
+            }
+                
         }
     }
 }

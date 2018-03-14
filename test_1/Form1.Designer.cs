@@ -41,6 +41,7 @@
             this.listBox7 = new System.Windows.Forms.ListBox();
             this.listBox8 = new System.Windows.Forms.ListBox();
             this.listBox9 = new System.Windows.Forms.ListBox();
+            this.listBox10 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // metroButton1
@@ -54,7 +55,7 @@
             // 
             // metroButton2
             // 
-            this.metroButton2.Location = new System.Drawing.Point(240, 178);
+            this.metroButton2.Location = new System.Drawing.Point(301, 201);
             this.metroButton2.Name = "metroButton2";
             this.metroButton2.Size = new System.Drawing.Size(75, 23);
             this.metroButton2.TabIndex = 1;
@@ -63,11 +64,12 @@
             // 
             // metroButton3
             // 
-            this.metroButton3.Location = new System.Drawing.Point(240, 207);
+            this.metroButton3.Location = new System.Drawing.Point(208, 138);
             this.metroButton3.Name = "metroButton3";
             this.metroButton3.Size = new System.Drawing.Size(75, 23);
             this.metroButton3.TabIndex = 2;
             this.metroButton3.Text = "metroButton3";
+            this.metroButton3.Click += new System.EventHandler(this.metroButton3_Click);
             // 
             // metroTextBox1
             // 
@@ -167,11 +169,20 @@
             this.listBox9.Size = new System.Drawing.Size(120, 43);
             this.listBox9.TabIndex = 11;
             // 
+            // listBox10
+            // 
+            this.listBox10.FormattingEnabled = true;
+            this.listBox10.Location = new System.Drawing.Point(163, 167);
+            this.listBox10.Name = "listBox10";
+            this.listBox10.Size = new System.Drawing.Size(120, 277);
+            this.listBox10.TabIndex = 13;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(782, 481);
+            this.Controls.Add(this.listBox10);
             this.Controls.Add(this.listBox8);
             this.Controls.Add(this.listBox9);
             this.Controls.Add(this.listBox6);
@@ -208,6 +219,7 @@
         private System.Windows.Forms.ListBox listBox7;
         private System.Windows.Forms.ListBox listBox8;
         private System.Windows.Forms.ListBox listBox9;
+        private System.Windows.Forms.ListBox listBox10;
     }
 }
 

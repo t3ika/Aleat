@@ -1,0 +1,61 @@
+﻿
+    <Controls:BasePage x:Class="UWPSQLiteStarterKit1.MainPage"
+                   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                   xmlns:local="using:UWPSQLiteStarterKit1"
+                   xmlns:Controls="using:UWPSQLiteStarterKit1.Controls"
+                   xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                   xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                   xmlns:helpers="using:UWPSQLiteStarterKit1.Helpers"
+                   mc:Ignorable="d"
+                   DataContext="{Binding Main, Source={StaticResource Locator}}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        
+        <!--TITLE-->
+        <TextBlock Style="{StaticResource HeaderTextBlockStyle}"
+                   Text="Home"
+                   VerticalAlignment="Center"
+                   Margin="30 0 0 0"
+                   Foreground="{StaticResource DarkBlueBrush}" />
+        
+        <!--CONTENT-->
+        <GridView IsItemClickEnabled="True" Margin="20"  Grid.Row="1"
+                  SelectionMode="None" ScrollViewer.HorizontalScrollBarVisibility="Auto" ScrollViewer.HorizontalScrollMode="Auto"
+                  ItemsSource="{Binding Exams}"
+                  ItemTemplate="{StaticResource GVMenuDataTemplate}"
+                  
+                  helpers:ItemClickCommandHelper.Command="{Binding AccessToExamCommand}"
+                  
+                >
+            <GridView.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <ItemsWrapGrid MaximumRowsOrColumns="2"
+                                   Orientation="Vertical" />
+                </ItemsPanelTemplate>
+            </GridView.ItemsPanel>
+        </GridView>
+
+        <!--BUTTONS-->
+        <StackPanel Orientation="Horizontal" Grid.Row="2"
+                    HorizontalAlignment="Center" Margin="0 10 0 0">
+            <Button Content="Command with no parameter"
+                    Command="{Binding ExecuteWithNoParameterCommand}"/>
+            
+            <Button Content="Asynchrone Command with no parameter"
+                    Command="{Binding ExecuteAsyncWithNoParameterCommand}"
+                    Margin="10 0 0 0" />
+
+            <Button Content="Navigation with no parameter"
+                    Command="{Binding NavigationWithNoParameterCommand}"
+                    Margin="10 0 0 0" />
+
+        </StackPanel>
+        
+    </Grid>
+</Controls:BasePage>
