@@ -15,5 +15,20 @@ namespace ClassLibrary1
                 return sBase.mains.ToList();
             }
         }
+
+        public List<main> SetUser(string value1, int value2)
+        {
+            using (var context = new sql_test1Entities())
+            {
+                var user = new main
+                {
+                    na = value1,
+                    wi = value2
+                };
+
+                return context.mains.Add(main);
+
+            }
+        }
     }
 }
