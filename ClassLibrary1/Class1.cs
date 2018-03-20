@@ -16,19 +16,19 @@ namespace ClassLibrary1
             }
         }
 
-        public List<main> SetUser(string value1, int value2)
-        {
-            using (var context = new sql_test1Entities())
-            {
-                var user = new main
-                {
-                    na = value1,
-                    wi = value2
-                };
+        //public List<main> SetUser(string value1, int value2)
+        //{
+        //    //using (var context = new sql_test1Entities())
+        //    //{
+        //    //    var user = new main
+        //    //    {
+        //    //        na = value1,
+        //    //        wi = value2
+        //    //    };
 
-                return context.mains.Add(main);
+        //    //    return context.mains.Add(main);
 
-            }
-        }
+        //    //}
+        //}
     }
 }

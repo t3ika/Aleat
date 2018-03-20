@@ -99,15 +99,25 @@ namespace test_1
         {
             try
             {
-                sql_datamodel dBase = new sql_datamodel();
-                listBox10.DataSource = dBase.mains.ToList();
-                listBox10.DisplayMember = "na";
+
             }
             catch (Exception ez)
             {
                 MessageBox.Show(ez.ToString());
             }
                 
+        }
+
+        private void metroButton5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroButton8_Click(object sender, EventArgs e)
+        {
+            metroTextBox19.Text = DateTime.UtcNow.ToShortTimeString();
+
+
         }
     }
 }
