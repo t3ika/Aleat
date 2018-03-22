@@ -119,5 +119,15 @@ namespace test_1
 
 
         }
+
+        private void metroButton23_Click(object sender, EventArgs e)
+        {
+            Timer timer1 = new Timer();
+            //
+            int counter1 = 0;
+            //
+
+        }
+
     }
 }

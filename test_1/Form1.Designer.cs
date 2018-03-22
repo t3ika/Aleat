@@ -54,53 +54,57 @@
             this.metroButton4 = new MetroFramework.Controls.MetroButton();
             this.metroTextBox2 = new MetroFramework.Controls.MetroTextBox();
             this.metroTabPage2 = new MetroFramework.Controls.MetroTabPage();
-            this.metroButton5 = new MetroFramework.Controls.MetroButton();
             this.listBox18 = new System.Windows.Forms.ListBox();
+            this.metroButton5 = new MetroFramework.Controls.MetroButton();
             this.metroTabPage3 = new MetroFramework.Controls.MetroTabPage();
+            this.metroButton23 = new MetroFramework.Controls.MetroButton();
+            this.metroLabel1 = new MetroFramework.Controls.MetroLabel();
+            this.metroTextBox19 = new MetroFramework.Controls.MetroTextBox();
+            this.metroButton19 = new MetroFramework.Controls.MetroButton();
+            this.metroButton20 = new MetroFramework.Controls.MetroButton();
+            this.metroButton21 = new MetroFramework.Controls.MetroButton();
+            this.metroButton22 = new MetroFramework.Controls.MetroButton();
+            this.metroButton15 = new MetroFramework.Controls.MetroButton();
+            this.metroButton16 = new MetroFramework.Controls.MetroButton();
+            this.metroButton17 = new MetroFramework.Controls.MetroButton();
+            this.metroButton18 = new MetroFramework.Controls.MetroButton();
+            this.metroButton11 = new MetroFramework.Controls.MetroButton();
+            this.metroButton12 = new MetroFramework.Controls.MetroButton();
+            this.metroButton13 = new MetroFramework.Controls.MetroButton();
+            this.metroButton14 = new MetroFramework.Controls.MetroButton();
+            this.metroButton10 = new MetroFramework.Controls.MetroButton();
+            this.metroButton9 = new MetroFramework.Controls.MetroButton();
+            this.metroButton8 = new MetroFramework.Controls.MetroButton();
+            this.metroButton7 = new MetroFramework.Controls.MetroButton();
+            this.metroTextBox17 = new MetroFramework.Controls.MetroTextBox();
+            this.metroTextBox18 = new MetroFramework.Controls.MetroTextBox();
+            this.metroTextBox15 = new MetroFramework.Controls.MetroTextBox();
+            this.metroTextBox16 = new MetroFramework.Controls.MetroTextBox();
+            this.metroTextBox13 = new MetroFramework.Controls.MetroTextBox();
+            this.metroTextBox14 = new MetroFramework.Controls.MetroTextBox();
+            this.metroTextBox11 = new MetroFramework.Controls.MetroTextBox();
+            this.metroTextBox12 = new MetroFramework.Controls.MetroTextBox();
+            this.metroTextBox9 = new MetroFramework.Controls.MetroTextBox();
+            this.metroTextBox10 = new MetroFramework.Controls.MetroTextBox();
+            this.metroTextBox7 = new MetroFramework.Controls.MetroTextBox();
+            this.metroTextBox8 = new MetroFramework.Controls.MetroTextBox();
+            this.metroTextBox5 = new MetroFramework.Controls.MetroTextBox();
+            this.metroTextBox6 = new MetroFramework.Controls.MetroTextBox();
+            this.metroTextBox4 = new MetroFramework.Controls.MetroTextBox();
+            this.metroTextBox3 = new MetroFramework.Controls.MetroTextBox();
+            this.metroButton6 = new MetroFramework.Controls.MetroButton();
+            this.listBox19 = new System.Windows.Forms.ListBox();
             this.metroTabPage4 = new MetroFramework.Controls.MetroTabPage();
             this.metroTabPage5 = new MetroFramework.Controls.MetroTabPage();
             this.metroTabPage6 = new MetroFramework.Controls.MetroTabPage();
             this.metroTabPage7 = new MetroFramework.Controls.MetroTabPage();
             this.metroTabPage8 = new MetroFramework.Controls.MetroTabPage();
-            this.metroButton6 = new MetroFramework.Controls.MetroButton();
-            this.listBox19 = new System.Windows.Forms.ListBox();
-            this.metroTextBox3 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox4 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox5 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox6 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox7 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox8 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox9 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox10 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox11 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox12 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox13 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox14 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox15 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox16 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox17 = new MetroFramework.Controls.MetroTextBox();
-            this.metroTextBox18 = new MetroFramework.Controls.MetroTextBox();
-            this.metroButton7 = new MetroFramework.Controls.MetroButton();
-            this.metroButton8 = new MetroFramework.Controls.MetroButton();
-            this.metroButton9 = new MetroFramework.Controls.MetroButton();
-            this.metroButton10 = new MetroFramework.Controls.MetroButton();
-            this.metroButton11 = new MetroFramework.Controls.MetroButton();
-            this.metroButton12 = new MetroFramework.Controls.MetroButton();
-            this.metroButton13 = new MetroFramework.Controls.MetroButton();
-            this.metroButton14 = new MetroFramework.Controls.MetroButton();
-            this.metroButton15 = new MetroFramework.Controls.MetroButton();
-            this.metroButton16 = new MetroFramework.Controls.MetroButton();
-            this.metroButton17 = new MetroFramework.Controls.MetroButton();
-            this.metroButton18 = new MetroFramework.Controls.MetroButton();
-            this.metroButton19 = new MetroFramework.Controls.MetroButton();
-            this.metroButton20 = new MetroFramework.Controls.MetroButton();
-            this.metroButton21 = new MetroFramework.Controls.MetroButton();
-            this.metroButton22 = new MetroFramework.Controls.MetroButton();
-            this.metroTextBox19 = new MetroFramework.Controls.MetroTextBox();
+            this.metroButton24 = new MetroFramework.Controls.MetroButton();
             this.metroTabControl1.SuspendLayout();
             this.metroTabPage1.SuspendLayout();
             this.metroTabPage2.SuspendLayout();
             this.metroTabPage3.SuspendLayout();
+            this.metroTabPage4.SuspendLayout();
             this.SuspendLayout();
             // 
             // metroButton1
@@ -295,8 +299,8 @@
             // metroTabControl1
             // 
             this.metroTabControl1.Controls.Add(this.metroTabPage1);
-            this.metroTabControl1.Controls.Add(this.metroTabPage2);
             this.metroTabControl1.Controls.Add(this.metroTabPage3);
+            this.metroTabControl1.Controls.Add(this.metroTabPage2);
             this.metroTabControl1.Controls.Add(this.metroTabPage4);
             this.metroTabControl1.Controls.Add(this.metroTabPage5);
             this.metroTabControl1.Controls.Add(this.metroTabPage6);
@@ -304,7 +308,7 @@
             this.metroTabControl1.Controls.Add(this.metroTabPage8);
             this.metroTabControl1.Location = new System.Drawing.Point(23, 63);
             this.metroTabControl1.Name = "metroTabControl1";
-            this.metroTabControl1.SelectedIndex = 2;
+            this.metroTabControl1.SelectedIndex = 3;
             this.metroTabControl1.Size = new System.Drawing.Size(1149, 559);
             this.metroTabControl1.TabIndex = 21;
             // 
@@ -369,6 +373,14 @@
             this.metroTabPage2.Text = "metroTabPage2";
             this.metroTabPage2.VerticalScrollbarBarColor = true;
             // 
+            // listBox18
+            // 
+            this.listBox18.FormattingEnabled = true;
+            this.listBox18.Location = new System.Drawing.Point(710, 14);
+            this.listBox18.Name = "listBox18";
+            this.listBox18.Size = new System.Drawing.Size(120, 43);
+            this.listBox18.TabIndex = 23;
+            // 
             // metroButton5
             // 
             this.metroButton5.Location = new System.Drawing.Point(537, 51);
@@ -378,16 +390,10 @@
             this.metroButton5.Text = "metroButton5";
             this.metroButton5.Click += new System.EventHandler(this.metroButton5_Click);
             // 
-            // listBox18
-            // 
-            this.listBox18.FormattingEnabled = true;
-            this.listBox18.Location = new System.Drawing.Point(710, 14);
-            this.listBox18.Name = "listBox18";
-            this.listBox18.Size = new System.Drawing.Size(120, 43);
-            this.listBox18.TabIndex = 23;
-            // 
             // metroTabPage3
             // 
+            this.metroTabPage3.Controls.Add(this.metroButton23);
+            this.metroTabPage3.Controls.Add(this.metroLabel1);
             this.metroTabPage3.Controls.Add(this.metroTextBox19);
             this.metroTabPage3.Controls.Add(this.metroButton19);
             this.metroTabPage3.Controls.Add(this.metroButton20);
@@ -431,8 +437,341 @@
             this.metroTabPage3.Text = "metroTabPage3";
             this.metroTabPage3.VerticalScrollbarBarColor = true;
             // 
+            // metroButton23
+            // 
+            this.metroButton23.Location = new System.Drawing.Point(945, 223);
+            this.metroButton23.Name = "metroButton23";
+            this.metroButton23.Size = new System.Drawing.Size(75, 23);
+            this.metroButton23.TabIndex = 41;
+            this.metroButton23.Text = "metroButton23";
+            this.metroButton23.Click += new System.EventHandler(this.metroButton23_Click);
+            // 
+            // metroLabel1
+            // 
+            this.metroLabel1.AutoSize = true;
+            this.metroLabel1.Location = new System.Drawing.Point(856, 223);
+            this.metroLabel1.Name = "metroLabel1";
+            this.metroLabel1.Size = new System.Drawing.Size(83, 19);
+            this.metroLabel1.TabIndex = 40;
+            this.metroLabel1.Text = "metroLabel1";
+            // 
+            // metroTextBox19
+            // 
+            this.metroTextBox19.Location = new System.Drawing.Point(829, 80);
+            this.metroTextBox19.Name = "metroTextBox19";
+            this.metroTextBox19.Size = new System.Drawing.Size(235, 23);
+            this.metroTextBox19.TabIndex = 39;
+            this.metroTextBox19.Text = "metroTextBox19";
+            // 
+            // metroButton19
+            // 
+            this.metroButton19.Location = new System.Drawing.Point(540, 456);
+            this.metroButton19.Name = "metroButton19";
+            this.metroButton19.Size = new System.Drawing.Size(29, 23);
+            this.metroButton19.TabIndex = 38;
+            this.metroButton19.Text = "metroButton19";
+            // 
+            // metroButton20
+            // 
+            this.metroButton20.Location = new System.Drawing.Point(476, 456);
+            this.metroButton20.Name = "metroButton20";
+            this.metroButton20.Size = new System.Drawing.Size(29, 23);
+            this.metroButton20.TabIndex = 37;
+            this.metroButton20.Text = "metroButton20";
+            // 
+            // metroButton21
+            // 
+            this.metroButton21.Location = new System.Drawing.Point(540, 410);
+            this.metroButton21.Name = "metroButton21";
+            this.metroButton21.Size = new System.Drawing.Size(29, 23);
+            this.metroButton21.TabIndex = 36;
+            this.metroButton21.Text = "metroButton21";
+            // 
+            // metroButton22
+            // 
+            this.metroButton22.Location = new System.Drawing.Point(476, 410);
+            this.metroButton22.Name = "metroButton22";
+            this.metroButton22.Size = new System.Drawing.Size(29, 23);
+            this.metroButton22.TabIndex = 35;
+            this.metroButton22.Text = "metroButton22";
+            // 
+            // metroButton15
+            // 
+            this.metroButton15.Location = new System.Drawing.Point(540, 362);
+            this.metroButton15.Name = "metroButton15";
+            this.metroButton15.Size = new System.Drawing.Size(29, 23);
+            this.metroButton15.TabIndex = 34;
+            this.metroButton15.Text = "metroButton15";
+            // 
+            // metroButton16
+            // 
+            this.metroButton16.Location = new System.Drawing.Point(475, 362);
+            this.metroButton16.Name = "metroButton16";
+            this.metroButton16.Size = new System.Drawing.Size(29, 23);
+            this.metroButton16.TabIndex = 33;
+            this.metroButton16.Text = "metroButton16";
+            // 
+            // metroButton17
+            // 
+            this.metroButton17.Location = new System.Drawing.Point(540, 314);
+            this.metroButton17.Name = "metroButton17";
+            this.metroButton17.Size = new System.Drawing.Size(29, 23);
+            this.metroButton17.TabIndex = 32;
+            this.metroButton17.Text = "metroButton17";
+            // 
+            // metroButton18
+            // 
+            this.metroButton18.Location = new System.Drawing.Point(476, 314);
+            this.metroButton18.Name = "metroButton18";
+            this.metroButton18.Size = new System.Drawing.Size(29, 23);
+            this.metroButton18.TabIndex = 31;
+            this.metroButton18.Text = "metroButton18";
+            // 
+            // metroButton11
+            // 
+            this.metroButton11.Location = new System.Drawing.Point(540, 223);
+            this.metroButton11.Name = "metroButton11";
+            this.metroButton11.Size = new System.Drawing.Size(29, 23);
+            this.metroButton11.TabIndex = 30;
+            this.metroButton11.Text = "metroButton11";
+            // 
+            // metroButton12
+            // 
+            this.metroButton12.Location = new System.Drawing.Point(475, 223);
+            this.metroButton12.Name = "metroButton12";
+            this.metroButton12.Size = new System.Drawing.Size(29, 23);
+            this.metroButton12.TabIndex = 29;
+            this.metroButton12.Text = "metroButton12";
+            // 
+            // metroButton13
+            // 
+            this.metroButton13.Location = new System.Drawing.Point(540, 175);
+            this.metroButton13.Name = "metroButton13";
+            this.metroButton13.Size = new System.Drawing.Size(29, 23);
+            this.metroButton13.TabIndex = 28;
+            this.metroButton13.Text = "metroButton13";
+            // 
+            // metroButton14
+            // 
+            this.metroButton14.Location = new System.Drawing.Point(476, 175);
+            this.metroButton14.Name = "metroButton14";
+            this.metroButton14.Size = new System.Drawing.Size(29, 23);
+            this.metroButton14.TabIndex = 27;
+            this.metroButton14.Text = "metroButton14";
+            // 
+            // metroButton10
+            // 
+            this.metroButton10.Location = new System.Drawing.Point(540, 128);
+            this.metroButton10.Name = "metroButton10";
+            this.metroButton10.Size = new System.Drawing.Size(29, 23);
+            this.metroButton10.TabIndex = 26;
+            this.metroButton10.Text = "metroButton10";
+            // 
+            // metroButton9
+            // 
+            this.metroButton9.Location = new System.Drawing.Point(475, 128);
+            this.metroButton9.Name = "metroButton9";
+            this.metroButton9.Size = new System.Drawing.Size(29, 23);
+            this.metroButton9.TabIndex = 25;
+            this.metroButton9.Text = "metroButton9";
+            // 
+            // metroButton8
+            // 
+            this.metroButton8.Location = new System.Drawing.Point(540, 80);
+            this.metroButton8.Name = "metroButton8";
+            this.metroButton8.Size = new System.Drawing.Size(29, 23);
+            this.metroButton8.TabIndex = 24;
+            this.metroButton8.Text = "metroButton8";
+            this.metroButton8.Click += new System.EventHandler(this.metroButton8_Click);
+            // 
+            // metroButton7
+            // 
+            this.metroButton7.Location = new System.Drawing.Point(476, 80);
+            this.metroButton7.Name = "metroButton7";
+            this.metroButton7.Size = new System.Drawing.Size(29, 23);
+            this.metroButton7.TabIndex = 23;
+            this.metroButton7.Text = "metroButton7";
+            // 
+            // metroTextBox17
+            // 
+            this.metroTextBox17.Location = new System.Drawing.Point(575, 456);
+            this.metroTextBox17.Name = "metroTextBox17";
+            this.metroTextBox17.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox17.TabIndex = 22;
+            this.metroTextBox17.Text = "metroTextBox17";
+            this.metroTextBox17.UseStyleColors = true;
+            // 
+            // metroTextBox18
+            // 
+            this.metroTextBox18.Location = new System.Drawing.Point(310, 456);
+            this.metroTextBox18.Name = "metroTextBox18";
+            this.metroTextBox18.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox18.TabIndex = 21;
+            this.metroTextBox18.Text = "metroTextBox18";
+            this.metroTextBox18.UseStyleColors = true;
+            // 
+            // metroTextBox15
+            // 
+            this.metroTextBox15.Location = new System.Drawing.Point(575, 410);
+            this.metroTextBox15.Name = "metroTextBox15";
+            this.metroTextBox15.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox15.TabIndex = 20;
+            this.metroTextBox15.Text = "metroTextBox15";
+            this.metroTextBox15.UseStyleColors = true;
+            // 
+            // metroTextBox16
+            // 
+            this.metroTextBox16.Location = new System.Drawing.Point(310, 410);
+            this.metroTextBox16.Name = "metroTextBox16";
+            this.metroTextBox16.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox16.TabIndex = 19;
+            this.metroTextBox16.Text = "metroTextBox16";
+            this.metroTextBox16.UseStyleColors = true;
+            // 
+            // metroTextBox13
+            // 
+            this.metroTextBox13.Location = new System.Drawing.Point(575, 362);
+            this.metroTextBox13.Name = "metroTextBox13";
+            this.metroTextBox13.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox13.TabIndex = 18;
+            this.metroTextBox13.Text = "metroTextBox13";
+            this.metroTextBox13.UseStyleColors = true;
+            // 
+            // metroTextBox14
+            // 
+            this.metroTextBox14.Location = new System.Drawing.Point(309, 362);
+            this.metroTextBox14.Name = "metroTextBox14";
+            this.metroTextBox14.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox14.TabIndex = 17;
+            this.metroTextBox14.Text = "metroTextBox14";
+            this.metroTextBox14.UseStyleColors = true;
+            // 
+            // metroTextBox11
+            // 
+            this.metroTextBox11.Location = new System.Drawing.Point(575, 314);
+            this.metroTextBox11.Name = "metroTextBox11";
+            this.metroTextBox11.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox11.TabIndex = 16;
+            this.metroTextBox11.Text = "metroTextBox11";
+            this.metroTextBox11.UseStyleColors = true;
+            // 
+            // metroTextBox12
+            // 
+            this.metroTextBox12.Location = new System.Drawing.Point(310, 314);
+            this.metroTextBox12.Name = "metroTextBox12";
+            this.metroTextBox12.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox12.TabIndex = 15;
+            this.metroTextBox12.Text = "metroTextBox12";
+            this.metroTextBox12.UseStyleColors = true;
+            // 
+            // metroTextBox9
+            // 
+            this.metroTextBox9.Location = new System.Drawing.Point(575, 223);
+            this.metroTextBox9.Name = "metroTextBox9";
+            this.metroTextBox9.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox9.TabIndex = 14;
+            this.metroTextBox9.Text = "metroTextBox9";
+            this.metroTextBox9.UseStyleColors = true;
+            // 
+            // metroTextBox10
+            // 
+            this.metroTextBox10.Location = new System.Drawing.Point(309, 223);
+            this.metroTextBox10.Name = "metroTextBox10";
+            this.metroTextBox10.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox10.TabIndex = 13;
+            this.metroTextBox10.Text = "metroTextBox10";
+            this.metroTextBox10.UseStyleColors = true;
+            // 
+            // metroTextBox7
+            // 
+            this.metroTextBox7.Location = new System.Drawing.Point(575, 175);
+            this.metroTextBox7.Name = "metroTextBox7";
+            this.metroTextBox7.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox7.TabIndex = 12;
+            this.metroTextBox7.Text = "metroTextBox7";
+            this.metroTextBox7.UseStyleColors = true;
+            // 
+            // metroTextBox8
+            // 
+            this.metroTextBox8.Location = new System.Drawing.Point(310, 175);
+            this.metroTextBox8.Name = "metroTextBox8";
+            this.metroTextBox8.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox8.TabIndex = 11;
+            this.metroTextBox8.Text = "metroTextBox8";
+            this.metroTextBox8.UseStyleColors = true;
+            // 
+            // metroTextBox5
+            // 
+            this.metroTextBox5.Location = new System.Drawing.Point(575, 128);
+            this.metroTextBox5.Name = "metroTextBox5";
+            this.metroTextBox5.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox5.TabIndex = 10;
+            this.metroTextBox5.Text = "metroTextBox5";
+            this.metroTextBox5.UseStyleColors = true;
+            // 
+            // metroTextBox6
+            // 
+            this.metroTextBox6.Location = new System.Drawing.Point(309, 128);
+            this.metroTextBox6.Name = "metroTextBox6";
+            this.metroTextBox6.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox6.TabIndex = 9;
+            this.metroTextBox6.Text = "metroTextBox6";
+            this.metroTextBox6.UseStyleColors = true;
+            // 
+            // metroTextBox4
+            // 
+            this.metroTextBox4.Location = new System.Drawing.Point(575, 80);
+            this.metroTextBox4.Name = "metroTextBox4";
+            this.metroTextBox4.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox4.TabIndex = 8;
+            this.metroTextBox4.Text = "metroTextBox4";
+            this.metroTextBox4.UseStyleColors = true;
+            // 
+            // metroTextBox3
+            // 
+            this.metroTextBox3.Location = new System.Drawing.Point(309, 80);
+            this.metroTextBox3.Name = "metroTextBox3";
+            this.metroTextBox3.Size = new System.Drawing.Size(160, 23);
+            this.metroTextBox3.TabIndex = 7;
+            this.metroTextBox3.Text = "metroTextBox3";
+            this.metroTextBox3.UseStyleColors = true;
+            // 
+            // metroButton6
+            // 
+            this.metroButton6.Location = new System.Drawing.Point(152, 188);
+            this.metroButton6.Name = "metroButton6";
+            this.metroButton6.Size = new System.Drawing.Size(75, 23);
+            this.metroButton6.TabIndex = 5;
+            this.metroButton6.Text = "metroButton6";
+            // 
+            // listBox19
+            // 
+            this.listBox19.FormattingEnabled = true;
+            this.listBox19.Items.AddRange(new object[] {
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L",
+            "M",
+            "N",
+            "O",
+            "P"});
+            this.listBox19.Location = new System.Drawing.Point(26, 80);
+            this.listBox19.Name = "listBox19";
+            this.listBox19.Size = new System.Drawing.Size(120, 277);
+            this.listBox19.TabIndex = 6;
+            // 
             // metroTabPage4
             // 
+            this.metroTabPage4.Controls.Add(this.metroButton24);
             this.metroTabPage4.HorizontalScrollbarBarColor = true;
             this.metroTabPage4.Location = new System.Drawing.Point(4, 35);
             this.metroTabPage4.Name = "metroTabPage4";
@@ -481,319 +820,13 @@
             this.metroTabPage8.Text = "metroTabPage8";
             this.metroTabPage8.VerticalScrollbarBarColor = true;
             // 
-            // metroButton6
-            // 
-            this.metroButton6.Location = new System.Drawing.Point(152, 188);
-            this.metroButton6.Name = "metroButton6";
-            this.metroButton6.Size = new System.Drawing.Size(75, 23);
-            this.metroButton6.TabIndex = 5;
-            this.metroButton6.Text = "metroButton6";
-            // 
-            // listBox19
-            // 
-            this.listBox19.FormattingEnabled = true;
-            this.listBox19.Items.AddRange(new object[] {
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F",
-            "G",
-            "H",
-            "I",
-            "J",
-            "K",
-            "L",
-            "M",
-            "N",
-            "O",
-            "P"});
-            this.listBox19.Location = new System.Drawing.Point(26, 80);
-            this.listBox19.Name = "listBox19";
-            this.listBox19.Size = new System.Drawing.Size(120, 277);
-            this.listBox19.TabIndex = 6;
-            // 
-            // metroTextBox3
-            // 
-            this.metroTextBox3.Location = new System.Drawing.Point(309, 80);
-            this.metroTextBox3.Name = "metroTextBox3";
-            this.metroTextBox3.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox3.TabIndex = 7;
-            this.metroTextBox3.Text = "metroTextBox3";
-            this.metroTextBox3.UseStyleColors = true;
-            // 
-            // metroTextBox4
-            // 
-            this.metroTextBox4.Location = new System.Drawing.Point(575, 80);
-            this.metroTextBox4.Name = "metroTextBox4";
-            this.metroTextBox4.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox4.TabIndex = 8;
-            this.metroTextBox4.Text = "metroTextBox4";
-            this.metroTextBox4.UseStyleColors = true;
-            // 
-            // metroTextBox5
-            // 
-            this.metroTextBox5.Location = new System.Drawing.Point(575, 128);
-            this.metroTextBox5.Name = "metroTextBox5";
-            this.metroTextBox5.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox5.TabIndex = 10;
-            this.metroTextBox5.Text = "metroTextBox5";
-            this.metroTextBox5.UseStyleColors = true;
-            // 
-            // metroTextBox6
-            // 
-            this.metroTextBox6.Location = new System.Drawing.Point(309, 128);
-            this.metroTextBox6.Name = "metroTextBox6";
-            this.metroTextBox6.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox6.TabIndex = 9;
-            this.metroTextBox6.Text = "metroTextBox6";
-            this.metroTextBox6.UseStyleColors = true;
-            // 
-            // metroTextBox7
-            // 
-            this.metroTextBox7.Location = new System.Drawing.Point(575, 175);
-            this.metroTextBox7.Name = "metroTextBox7";
-            this.metroTextBox7.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox7.TabIndex = 12;
-            this.metroTextBox7.Text = "metroTextBox7";
-            this.metroTextBox7.UseStyleColors = true;
-            // 
-            // metroTextBox8
-            // 
-            this.metroTextBox8.Location = new System.Drawing.Point(310, 175);
-            this.metroTextBox8.Name = "metroTextBox8";
-            this.metroTextBox8.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox8.TabIndex = 11;
-            this.metroTextBox8.Text = "metroTextBox8";
-            this.metroTextBox8.UseStyleColors = true;
-            // 
-            // metroTextBox9
-            // 
-            this.metroTextBox9.Location = new System.Drawing.Point(575, 223);
-            this.metroTextBox9.Name = "metroTextBox9";
-            this.metroTextBox9.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox9.TabIndex = 14;
-            this.metroTextBox9.Text = "metroTextBox9";
-            this.metroTextBox9.UseStyleColors = true;
-            // 
-            // metroTextBox10
-            // 
-            this.metroTextBox10.Location = new System.Drawing.Point(309, 223);
-            this.metroTextBox10.Name = "metroTextBox10";
-            this.metroTextBox10.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox10.TabIndex = 13;
-            this.metroTextBox10.Text = "metroTextBox10";
-            this.metroTextBox10.UseStyleColors = true;
-            // 
-            // metroTextBox11
-            // 
-            this.metroTextBox11.Location = new System.Drawing.Point(575, 314);
-            this.metroTextBox11.Name = "metroTextBox11";
-            this.metroTextBox11.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox11.TabIndex = 16;
-            this.metroTextBox11.Text = "metroTextBox11";
-            this.metroTextBox11.UseStyleColors = true;
-            // 
-            // metroTextBox12
-            // 
-            this.metroTextBox12.Location = new System.Drawing.Point(310, 314);
-            this.metroTextBox12.Name = "metroTextBox12";
-            this.metroTextBox12.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox12.TabIndex = 15;
-            this.metroTextBox12.Text = "metroTextBox12";
-            this.metroTextBox12.UseStyleColors = true;
-            // 
-            // metroTextBox13
-            // 
-            this.metroTextBox13.Location = new System.Drawing.Point(575, 362);
-            this.metroTextBox13.Name = "metroTextBox13";
-            this.metroTextBox13.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox13.TabIndex = 18;
-            this.metroTextBox13.Text = "metroTextBox13";
-            this.metroTextBox13.UseStyleColors = true;
-            // 
-            // metroTextBox14
-            // 
-            this.metroTextBox14.Location = new System.Drawing.Point(309, 362);
-            this.metroTextBox14.Name = "metroTextBox14";
-            this.metroTextBox14.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox14.TabIndex = 17;
-            this.metroTextBox14.Text = "metroTextBox14";
-            this.metroTextBox14.UseStyleColors = true;
-            // 
-            // metroTextBox15
-            // 
-            this.metroTextBox15.Location = new System.Drawing.Point(575, 410);
-            this.metroTextBox15.Name = "metroTextBox15";
-            this.metroTextBox15.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox15.TabIndex = 20;
-            this.metroTextBox15.Text = "metroTextBox15";
-            this.metroTextBox15.UseStyleColors = true;
-            // 
-            // metroTextBox16
-            // 
-            this.metroTextBox16.Location = new System.Drawing.Point(310, 410);
-            this.metroTextBox16.Name = "metroTextBox16";
-            this.metroTextBox16.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox16.TabIndex = 19;
-            this.metroTextBox16.Text = "metroTextBox16";
-            this.metroTextBox16.UseStyleColors = true;
-            // 
-            // metroTextBox17
-            // 
-            this.metroTextBox17.Location = new System.Drawing.Point(575, 456);
-            this.metroTextBox17.Name = "metroTextBox17";
-            this.metroTextBox17.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox17.TabIndex = 22;
-            this.metroTextBox17.Text = "metroTextBox17";
-            this.metroTextBox17.UseStyleColors = true;
-            // 
-            // metroTextBox18
-            // 
-            this.metroTextBox18.Location = new System.Drawing.Point(310, 456);
-            this.metroTextBox18.Name = "metroTextBox18";
-            this.metroTextBox18.Size = new System.Drawing.Size(160, 23);
-            this.metroTextBox18.TabIndex = 21;
-            this.metroTextBox18.Text = "metroTextBox18";
-            this.metroTextBox18.UseStyleColors = true;
-            // 
-            // metroButton7
-            // 
-            this.metroButton7.Location = new System.Drawing.Point(476, 80);
-            this.metroButton7.Name = "metroButton7";
-            this.metroButton7.Size = new System.Drawing.Size(29, 23);
-            this.metroButton7.TabIndex = 23;
-            this.metroButton7.Text = "metroButton7";
-            // 
-            // metroButton8
-            // 
-            this.metroButton8.Location = new System.Drawing.Point(540, 80);
-            this.metroButton8.Name = "metroButton8";
-            this.metroButton8.Size = new System.Drawing.Size(29, 23);
-            this.metroButton8.TabIndex = 24;
-            this.metroButton8.Text = "metroButton8";
-            this.metroButton8.Click += new System.EventHandler(this.metroButton8_Click);
-            // 
-            // metroButton9
-            // 
-            this.metroButton9.Location = new System.Drawing.Point(475, 128);
-            this.metroButton9.Name = "metroButton9";
-            this.metroButton9.Size = new System.Drawing.Size(29, 23);
-            this.metroButton9.TabIndex = 25;
-            this.metroButton9.Text = "metroButton9";
-            // 
-            // metroButton10
-            // 
-            this.metroButton10.Location = new System.Drawing.Point(540, 128);
-            this.metroButton10.Name = "metroButton10";
-            this.metroButton10.Size = new System.Drawing.Size(29, 23);
-            this.metroButton10.TabIndex = 26;
-            this.metroButton10.Text = "metroButton10";
-            // 
-            // metroButton11
-            // 
-            this.metroButton11.Location = new System.Drawing.Point(540, 223);
-            this.metroButton11.Name = "metroButton11";
-            this.metroButton11.Size = new System.Drawing.Size(29, 23);
-            this.metroButton11.TabIndex = 30;
-            this.metroButton11.Text = "metroButton11";
-            // 
-            // metroButton12
-            // 
-            this.metroButton12.Location = new System.Drawing.Point(475, 223);
-            this.metroButton12.Name = "metroButton12";
-            this.metroButton12.Size = new System.Drawing.Size(29, 23);
-            this.metroButton12.TabIndex = 29;
-            this.metroButton12.Text = "metroButton12";
-            // 
-            // metroButton13
-            // 
-            this.metroButton13.Location = new System.Drawing.Point(540, 175);
-            this.metroButton13.Name = "metroButton13";
-            this.metroButton13.Size = new System.Drawing.Size(29, 23);
-            this.metroButton13.TabIndex = 28;
-            this.metroButton13.Text = "metroButton13";
-            // 
-            // metroButton14
-            // 
-            this.metroButton14.Location = new System.Drawing.Point(476, 175);
-            this.metroButton14.Name = "metroButton14";
-            this.metroButton14.Size = new System.Drawing.Size(29, 23);
-            this.metroButton14.TabIndex = 27;
-            this.metroButton14.Text = "metroButton14";
-            // 
-            // metroButton15
-            // 
-            this.metroButton15.Location = new System.Drawing.Point(540, 362);
-            this.metroButton15.Name = "metroButton15";
-            this.metroButton15.Size = new System.Drawing.Size(29, 23);
-            this.metroButton15.TabIndex = 34;
-            this.metroButton15.Text = "metroButton15";
-            // 
-            // metroButton16
-            // 
-            this.metroButton16.Location = new System.Drawing.Point(475, 362);
-            this.metroButton16.Name = "metroButton16";
-            this.metroButton16.Size = new System.Drawing.Size(29, 23);
-            this.metroButton16.TabIndex = 33;
-            this.metroButton16.Text = "metroButton16";
-            // 
-            // metroButton17
-            // 
-            this.metroButton17.Location = new System.Drawing.Point(540, 314);
-            this.metroButton17.Name = "metroButton17";
-            this.metroButton17.Size = new System.Drawing.Size(29, 23);
-            this.metroButton17.TabIndex = 32;
-            this.metroButton17.Text = "metroButton17";
-            // 
-            // metroButton18
-            // 
-            this.metroButton18.Location = new System.Drawing.Point(476, 314);
-            this.metroButton18.Name = "metroButton18";
-            this.metroButton18.Size = new System.Drawing.Size(29, 23);
-            this.metroButton18.TabIndex = 31;
-            this.metroButton18.Text = "metroButton18";
-            // 
-            // metroButton19
-            // 
-            this.metroButton19.Location = new System.Drawing.Point(540, 456);
-            this.metroButton19.Name = "metroButton19";
-            this.metroButton19.Size = new System.Drawing.Size(29, 23);
-            this.metroButton19.TabIndex = 38;
-            this.metroButton19.Text = "metroButton19";
-            // 
-            // metroButton20
-            // 
-            this.metroButton20.Location = new System.Drawing.Point(476, 456);
-            this.metroButton20.Name = "metroButton20";
-            this.metroButton20.Size = new System.Drawing.Size(29, 23);
-            this.metroButton20.TabIndex = 37;
-            this.metroButton20.Text = "metroButton20";
-            // 
-            // metroButton21
-            // 
-            this.metroButton21.Location = new System.Drawing.Point(540, 410);
-            this.metroButton21.Name = "metroButton21";
-            this.metroButton21.Size = new System.Drawing.Size(29, 23);
-            this.metroButton21.TabIndex = 36;
-            this.metroButton21.Text = "metroButton21";
-            // 
-            // metroButton22
-            // 
-            this.metroButton22.Location = new System.Drawing.Point(476, 410);
-            this.metroButton22.Name = "metroButton22";
-            this.metroButton22.Size = new System.Drawing.Size(29, 23);
-            this.metroButton22.TabIndex = 35;
-            this.metroButton22.Text = "metroButton22";
-            // 
-            // metroTextBox19
-            // 
-            this.metroTextBox19.Location = new System.Drawing.Point(829, 80);
-            this.metroTextBox19.Name = "metroTextBox19";
-            this.metroTextBox19.Size = new System.Drawing.Size(235, 23);
-            this.metroTextBox19.TabIndex = 39;
-            this.metroTextBox19.Text = "metroTextBox19";
+            // metroButton24
+            // 
+            this.metroButton24.Location = new System.Drawing.Point(95, 125);
+            this.metroButton24.Name = "metroButton24";
+            this.metroButton24.Size = new System.Drawing.Size(75, 23);
+            this.metroButton24.TabIndex = 2;
+            this.metroButton24.Text = "metroButton24";
             // 
             // Form1
             // 
@@ -809,6 +842,8 @@
             this.metroTabPage1.ResumeLayout(false);
             this.metroTabPage2.ResumeLayout(false);
             this.metroTabPage3.ResumeLayout(false);
+            this.metroTabPage3.PerformLayout();
+            this.metroTabPage4.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -884,6 +919,9 @@
         private MetroFramework.Controls.MetroTextBox metroTextBox4;
         private MetroFramework.Controls.MetroTextBox metroTextBox3;
         private MetroFramework.Controls.MetroTextBox metroTextBox19;
+        private MetroFramework.Controls.MetroButton metroButton23;
+        private MetroFramework.Controls.MetroLabel metroLabel1;
+        private MetroFramework.Controls.MetroButton metroButton24;
     }
 }
 
